@@ -31,3 +31,8 @@ ul {
 h3 {
     font-family: 'Arkhip', sans-serif;
 }
+
+img {
+	width: 300px;
+	height: 250px;
+  }
